@@ -1,4 +1,4 @@
-@ECHO ON
+@ECHO OFF
 echo SFC is working!
 sfc /scannow
 
