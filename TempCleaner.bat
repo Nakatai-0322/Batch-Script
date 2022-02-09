@@ -1,5 +1,5 @@
 @ECHO OFF
-set USERTEMP=%USERPROFILE%\AppData\Local\Temp
+set USERTEMP = %USERPROFILE%\AppData\Local\Temp
 
 pushd "%USERTEMP%"
 del /q *.*
