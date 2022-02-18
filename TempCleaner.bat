@@ -5,4 +5,4 @@ pushd "%USERTEMP%"
 del /q *.*
 for /d %%f in ( * ) do rd /s /q "%%f"
 
-Exit
+EXIT
